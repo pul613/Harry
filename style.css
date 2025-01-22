@@ -7,5 +7,9 @@ h2{font-style: italic}
 #Alds{font-style: italic}
 .v{line-height: 1.35}
 #v2{padding: 5px; }
-#histoire{max-width: 800px;margin: auto}
-h2{border: solid 1.5px; padding: 2px}
+#histoire{max-width: 900px;margin: auto}
+h2{border: solid 1.5px; padding: 2px 8px}
+.amis{margin: 10px; text-align: center}
+.imgamis{width: 200px; height: 200px; }
+.ennemis{margin: 10px; text-align: center}
+.imgennemis{width: 200px; height: 200px;display: inline }
